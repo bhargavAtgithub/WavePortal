@@ -2,6 +2,7 @@
  A Dapp that allows any one to know about me and wave at me.
 
 Contract Address - 0xb120930E6A283daEe264Be0D2c38F3fB33cB6A25
+https://rinkeby.etherscan.io/address/0xb120930E6A283daEe264Be0D2c38F3fB33cB6A25
 
 A smart contract that allows you to send a message. 
 And few users will receive 0.001 eth, who are treated as winners. It is a random choice. Getting a random value in smart contracts is a difficult problem. 
